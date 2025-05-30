@@ -1,0 +1,11 @@
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Contracts\bin\Debug\net8.0\CinemaTicketBooking.Contracts.deps.json
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Contracts\bin\Debug\net8.0\CinemaTicketBooking.Contracts.dll
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Contracts\bin\Debug\net8.0\CinemaTicketBooking.Contracts.pdb
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Contracts\obj\Debug\net8.0\CinemaTicketBooking.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Contracts\obj\Debug\net8.0\CinemaTicketBooking.Contracts.AssemblyInfoInputs.cache
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Contracts\obj\Debug\net8.0\CinemaTicketBooking.Contracts.AssemblyInfo.cs
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Contracts\obj\Debug\net8.0\CinemaTicketBooking.Contracts.csproj.CoreCompileInputs.cache
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Contracts\obj\Debug\net8.0\CinemaTicketBooking.Contracts.dll
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Contracts\obj\Debug\net8.0\refint\CinemaTicketBooking.Contracts.dll
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Contracts\obj\Debug\net8.0\CinemaTicketBooking.Contracts.pdb
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Contracts\obj\Debug\net8.0\ref\CinemaTicketBooking.Contracts.dll

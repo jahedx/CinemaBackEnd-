@@ -1,0 +1,17 @@
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\bin\Debug\net8.0\CinemaTicketBooking.Infrastructure.deps.json
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\bin\Debug\net8.0\CinemaTicketBooking.Infrastructure.runtimeconfig.json
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\bin\Debug\net8.0\CinemaTicketBooking.Infrastructure.dll
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\bin\Debug\net8.0\CinemaTicketBooking.Infrastructure.pdb
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\obj\Debug\net8.0\CinemaTicketBooking.Infrastructure.csproj.AssemblyReference.cache
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\obj\Debug\net8.0\CinemaTicketBooking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\obj\Debug\net8.0\CinemaTicketBooking.Infrastructure.AssemblyInfoInputs.cache
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\obj\Debug\net8.0\CinemaTicketBooking.Infrastructure.AssemblyInfo.cs
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\obj\Debug\net8.0\CinemaTicketBooking.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\obj\Debug\net8.0\CinemaTicketBooking.Infrastructure.dll
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\obj\Debug\net8.0\refint\CinemaTicketBooking.Infrastructure.dll
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\obj\Debug\net8.0\CinemaTicketBooking.Infrastructure.pdb
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\obj\Debug\net8.0\CinemaTicketBooking.Infrastructure.genruntimeconfig.cache
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\obj\Debug\net8.0\ref\CinemaTicketBooking.Infrastructure.dll
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\bin\Debug\net8.0\CinemaTicketBooking.Contracts.dll
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\bin\Debug\net8.0\CinemaTicketBooking.Contracts.pdb
+E:\Projects\Software eng lab\Back\CinemaTicketBooking.Infrastructure\obj\Debug\net8.0\CinemaTi.8E3635EF.Up2Date
